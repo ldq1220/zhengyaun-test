@@ -44,14 +44,11 @@
 
 ### 内容区域 原型图
 
-![1709175946733](C:\Users\gemel\AppData\Roaming\Typora\typora-user-images\1709175946733.png)
+![1709175946733](./src//assets/images/test/status1.png)
+![1709175946733](./src//assets/images/test/status2.png)
+![1709175946733](./src//assets/images/test/status3-1.png)
+![1709175946733](./src//assets/images/test/status3-2.png)
+![1709175946733](./src//assets/images/test/status3-3.png)
+![1709175946733](./src//assets/images/test/status4.png)
+![1709175946733](./src//assets/images/test/status5.png)
 
-![1709176019525](C:\Users\gemel\AppData\Roaming\Typora\typora-user-images\1709176019525.png![1709176691528](C:\Users\gemel\AppData\Roaming\Typora\typora-user-images\1709176691528.png)
-
-![1709176079321](C:\Users\gemel\AppData\Roaming\Typora\typora-user-images\1709176079321.png)
-
-
-
-![1709176578787](C:\Users\gemel\AppData\Roaming\Typora\typora-user-images\1709176578787.png)
-
-![1709176139919](C:\Users\gemel\AppData\Roaming\Typora\typora-user-images\1709176139919.png)
