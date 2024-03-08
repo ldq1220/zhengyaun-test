@@ -6,6 +6,8 @@
 
 项目技术栈： Vue3、 Pinia 、 Element-plus。
 
+包管理器： pnpm（勿用npm）。
+
 ### 试题介绍
 
 草稿箱 组件设计、ui样式、界面交互。
